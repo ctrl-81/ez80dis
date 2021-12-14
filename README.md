@@ -5,7 +5,7 @@ This is a simple disassembler for the Zilog eZ80 instruction set.
 Use `make` to build ez80dis.
 
 Alternatively, as `ez80dis` has no dependencies other than the C
-standard library, the equivalent can be written for whatever
+standard library, the equivalent can be used for whatever
 compiler
 `cc -o ez80dis src/*.c`
 or for Microsoft Visual C++
